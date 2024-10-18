@@ -8,7 +8,7 @@ The E-Library Management System is a console-based application developed in C++.
 - *Shopping Cart*: Users can add multiple books to their cart and see the total price before completing the transaction.
 - *Order Confirmation*: Once the transaction is completed, the user receives a confirmation of their order.
 
-##Usage
+## Usage
 
 *1*. Launch the application to see the welcome message.
 
