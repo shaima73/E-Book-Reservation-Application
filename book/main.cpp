@@ -20,7 +20,7 @@ bool isValidName(const string& str) {
     return regex_match(str, namePattern);
 }
 bool isValidnum(const string& str) {
-    // Regular expression to match only uppercase and lowercase letters
+    // Regular expression to match only numbers 
     regex numPattern("^[0-9]+$");
 
     // Return true if the string matches the pattern, false otherwise
